@@ -1,3 +1,3 @@
 # potential-system
-# Edinting
+# Editing
 It's a markdown file in this respository. 
